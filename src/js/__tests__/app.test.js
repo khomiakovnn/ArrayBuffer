@@ -1,4 +1,4 @@
-import app from '../app.js';
+// import app from '../app.js';
 
 // function typeTest() {
 //   return new Character('Ivan', 'Bowmann');
